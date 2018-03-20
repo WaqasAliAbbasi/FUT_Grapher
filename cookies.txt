@@ -1,0 +1,8 @@
+#LWP-Cookies-2.0
+Set-Cookie3: _nx_mpcid="47c6ba57-0ce7-4f85-95e6-8333385e7731"; path="/"; domain=".ea.com"; path_spec; domain_dot; expires="2022-12-18 19:53:32Z"; version=0
+Set-Cookie3: remid="TUU6R2NNaTJ1RXJkUzZLMUl5d1FIMVFvRlhMTGFiaDV5QTFmWklTbnpMYjowMTEzMzQ1NzM.3I3rBEpYS4LA42tf6I2WkxCMzwghTT7juTxnv0OO"; path="/connect"; domain="accounts.ea.com"; path_spec; secure; expires="2018-03-14 19:53:32Z"; HttpOnly=None; version=0
+Set-Cookie3: sid="U0tCMWNXUk1jRVNkVjIzb2lKZzI3T1Y1dERodk92NWJYdTJnZ3d6ZWt2dXZ2WlBuUkU0dGlnMkRYYVVWWA._nT6TnBBraMh6FrmcnXClB5sbZBhVVVTXV33eiF3cqw"; path="/connect"; domain="accounts.ea.com"; path_spec; secure; discard; HttpOnly=None; version=0
+Set-Cookie3: isPhone=false; path="/"; domain="signin.ea.com"; path_spec; expires="2018-01-20 19:53:09Z"; version=0
+Set-Cookie3: isPogo=false; path="/"; domain="signin.ea.com"; path_spec; expires="2018-01-20 19:53:09Z"; version=0
+Set-Cookie3: webun="\"waqasabbasi14+EA1@gmail.com\""; path="/"; domain="signin.ea.com"; path_spec; expires="2018-01-20 19:53:09Z"; version=0
+Set-Cookie3: JSESSIONID="5904F1D1C5B713559CFA918852E7A500.prdaccountc-19"; path="/p"; domain="signin.ea.com"; path_spec; secure; discard; HttpOnly=None; version=0
