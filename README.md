@@ -21,12 +21,7 @@ Therefore, it is in the player's interest to form a team with the best overalls 
 I turned this into a graph problem to find the best squads by using players as nodes and edges as similarities.
 
 Make a credentials.json with the FUT details:
-`{
-"email": "",
-"password": "",
-"secret": "",
-"platform": ""
-}``
+`{ "email": "", "password": "", "secret": "", "platform": "" }`
 
 Run `python squad_graph.py`
 
