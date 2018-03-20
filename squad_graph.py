@@ -63,7 +63,7 @@ user_email = credentials["email"]
 user_password = credentials["password"]
 user_secret = credentials["secret"]
 user_platform = credentials["platform"]
-print(user_email,user_password,user_secret,user_platform)
+
 refresh_club_data.refresh_club_data(user_email, user_password, user_secret, platform=user_platform)
 G = nx.Graph()
 rarity = {}
