@@ -30,9 +30,13 @@ Run `python squad_graph.py`
 ### Legend
 
 Brown node: Goalkeeper
+
 Yellow node: Defender
+
 Green node: Midfielder
+
 Red node: Attacker
 
 Orange edge: Orange Chemistry Link
+
 Green edge: Green Chemistry Link
